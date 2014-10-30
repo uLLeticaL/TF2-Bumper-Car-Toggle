@@ -5,12 +5,12 @@ This plugin allows users to toggle riding in bumper cars.
 
 Commands:
 
-**sm_car** <noparam|#userid|name> <noparam|on|off> - Toggles bumper car on all targets or self
+**sm_car** (noparam|#userid|name) (noparam|on|off) - Toggles bumper car on all targets or self
 
 
 Convars:
 
-**cv_bumpercar_teamonly** <0|2|3>
+**cv_bumpercar_teamonly** (0|2|3)
  0 = Anyone can enter bumper cars via command | 2 = Only red | 3 = Only blu | Anything else = Anyone can
 
 
