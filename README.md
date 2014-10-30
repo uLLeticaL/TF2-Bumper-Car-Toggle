@@ -6,7 +6,7 @@ This plugin allows users to toggle riding in bumper cars.
 Commands:
 
 **sm_car** (noparam|#userid|name) (noparam|on|off)  
- - Toggles bumper car on all targets or self
+ Toggles bumper car on all targets or self
 
 
 Convars:
@@ -18,7 +18,7 @@ Convars:
 Admin Overrides:
 
 **adm_bumpercar_self**  
- - Admin flag check for whether or not clients can toggle bumper cars on themselves (Default: Anyone)
+ Admin flag check for whether or not clients can toggle bumper cars on themselves (Default: Anyone)
 
 **adm_bumpercar_target**  
- - Admin flag check for whether or not clients can toggle bumper cars on others (Default: Slay)
+ Admin flag check for whether or not clients can toggle bumper cars on others (Default: Slay)
